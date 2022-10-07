@@ -13,3 +13,5 @@ Benchmarks are based on a two level tier.  Level 1 are easier to implement and h
 5. Netowrk Device
 6. Desktop Software
 7. Multi-function Print Device
+
+This is a summary of the article CIS Benchmarks by IBM Cloud Education [Here is a link to that article](https://www.ibm.com/cloud/learn/cis-benchmarks)
