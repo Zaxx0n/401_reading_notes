@@ -1,1 +1,1 @@
-place holder for future reading homework
+We skipped Week 5 Reading.... I think.
