@@ -1,0 +1,3 @@
+# PowerShell Empire 
+
+Released in 2015 at the BSides Las Vegas security conference, it showed how PowerShell could be used beyond the infection stage of an attack.  It was often used by offensive security teams to test defenses by imitating attacks from real threat actors. It was an open-source architecture.  It used encrypted communication with the command and control server making it difficult to detect traffic from its origin. Over time it included other frameworks, notably Python for Linux and macOS systems. Not only used by penetration testers, it also was used by malicious activities.  The article give the example of the Hades Olympic Destroyer campaign having used PowerShell Empire.  
