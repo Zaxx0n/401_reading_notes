@@ -3,12 +3,10 @@
 *this is a summary of Infosec's web article titled "CISSP domain 1: Security and risk management — What you need to know for the exam"* 
 [Here is a link to that article](https://resources.infosecinstitute.com/certification/security-risk-management/)
 
-The article starts off by describing risk management as *"involves comprehensive understanding, analysis and mitigation of risk to help organizations achieve their information security objective."* There will always be security risk and all we can do is make decisions that reduce its likelyhoood. 
-
-I worked really late trying to figure out the Lab tonight with Jon.  I've run out of time and so below is just a copy and paste of what I think would be the most important points of this reading.  By no means to I claim the following words to be of my own.
+There are 8 domains covered on the CISSP Certification Exam.  Security and Risk Management is the first of the domains. 
 
 **1. Risk assessment:**
-Looks at risks corresponding to identified parameters for a specific period and must be reevaluated periodically. Managing risks is an ongoing process. The following steps are officially part of a risk assessment as per NIST 800-30:
+This is when one looks at risks corresponding to identified parameters for a specific period. These risks  must be reevaluated periodically as it is an ongoing process. The following steps are officially part of a risk assessment as per NIST 800-30:
 
 - System characterization
 - Threat identification
@@ -21,7 +19,7 @@ Looks at risks corresponding to identified parameters for a specific period and 
 - Results documentation
 
 **2. Risk analysis**
-Risk can be analyzed through a qualitative and quantitative lens.
+Risk can be analyzed by being qualitative and quantitative.
 
 Qualitative analysis is subjective in nature and uses words like “high,” “medium,” “low” to describe the likelihood and severity of the impact of a threat exposing a vulnerability.
 
